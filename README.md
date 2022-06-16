@@ -1,6 +1,4 @@
-<p align="center">
-    ![cover](cover.png)
-</p>
+![cover](cover.png)
 
 This application deals with **asynchronous functions**. The best way to learn about async and await is to make network calls.
 
@@ -14,9 +12,7 @@ This app will mostly focus on logic, backend and functions. We won't cover a lot
 
 This app was built with **Xcode 13**, **iOS 15** and **MacOS Monterey**. It's important that you meet these requirements, as some newly introduced features are only available after iOS 15 and in Xcode 13.
 
-<p align="center">
-    ![mac](mac.png)
-</p>
+![mac](mac.png)
 
 ## Contentful
 
