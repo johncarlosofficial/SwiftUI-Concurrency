@@ -32,6 +32,9 @@
 		DD489B04285B61850093988A /* FeaturedCourseList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeaturedCourseList.swift; sourceTree = "<group>"; };
 		DD489B06285B62260093988A /* CourseCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseCard.swift; sourceTree = "<group>"; };
 		DD489B08285B62700093988A /* CourseList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseList.swift; sourceTree = "<group>"; };
+		DD796952285B7D91007A0C9D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		DD796953285B8B97007A0C9D /* cover.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cover.png; sourceTree = "<group>"; };
+		DD796954285B9790007A0C9D /* mac.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mac.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,6 +52,9 @@
 		22F1338A26791FDA00AA21E8 = {
 			isa = PBXGroup;
 			children = (
+				DD796954285B9790007A0C9D /* mac.png */,
+				DD796953285B8B97007A0C9D /* cover.png */,
+				DD796952285B7D91007A0C9D /* README.md */,
 				22F1339526791FDA00AA21E8 /* SwiftUI Concurrency */,
 				22F1339426791FDA00AA21E8 /* Products */,
 			);
